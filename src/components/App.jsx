@@ -1,3 +1,12 @@
+import React from "react";
+import { FeedbackOptions } from './Feedback/FeedbackOptions';
+import { Section } from './Section/Sections';
+import { Statistics } from './Statistics/Statistics';
+import { Notification } from './Notification/Notification';
+import style from './App.module.css';
+
+
+
 export const App = () => {
   return (
     <div
