@@ -5,21 +5,21 @@
 
 .good {
     composes: option;
-    color: rgb(33, 159, 26);
+    color: #3A9D23;
 }
 
 .positive {
     composes: option;
     font-size: 24px;
-    color: rgb(79, 50, 116);
+    color: #FFFCF0;
 }
 
 .neutral {
     composes: option;
-    color: rgb(134, 134, 225);
+    color: #9C9CA6;
 }
 
 .bad {
     composes: option;
-    color: rgb(225, 41, 41);
+    color: #FC1414;
 }
